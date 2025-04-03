@@ -1,37 +1,30 @@
-Customer Satisfaction & Experience in Air Travel
-Customer satisfaction is a crucial factor in the airline industry, directly impacting brand loyalty, customer retention, and overall business success. This project aims to analyze passenger satisfaction based on various factors, including service quality, demographics, flight characteristics, and travel behavior.
+# Customer Satisfaction & Experience in Air Travel  
 
-By leveraging data-driven insights, we can identify key areas for improvement and propose actionable recommendations to enhance the overall air travel experience.
+Customer satisfaction is a crucial factor in the airline industry, directly impacting brand loyalty, customer retention, and overall business success. This project aims to analyze passenger satisfaction based on various factors, including service quality, demographics, flight characteristics, and travel behavior.  
 
-Goals & Objectives
-Analyze overall customer satisfaction levels and their distribution.
+By leveraging data-driven insights, we can identify key areas for improvement and propose actionable recommendations to enhance the overall air travel experience.  
 
-Examine the impact of demographics (age, gender, customer type) on satisfaction.
+## Goals & Objectives  
 
-Evaluate how travel-related factors (class, flight distance, delays) influence customer experience.
+- Analyze overall customer satisfaction levels and their distribution.  
+- Examine the impact of demographics (age, gender, customer type) on satisfaction.  
+- Evaluate how travel-related factors (class, flight distance, delays) influence customer experience.  
+- Identify key service aspects that drive satisfaction and dissatisfaction.  
+- Provide data-driven recommendations to improve the air travel experience.  
 
-Identify key service aspects that drive satisfaction and dissatisfaction.
+## Dataset  
+Contains:  
+- Passenger demographics – Age, gender, travel class, etc.  
+- Service ratings – Check-in, seat comfort, food, WiFi, etc.  
+- Flight details – Distance, delays, gate location, etc.  
 
-Provide data-driven recommendations to improve the air travel experience.
+## Tools Used  
 
-Dataset
-Source: Maven Analytics
+- **Excel** – Data cleaning & preparation  
+- **SQL** – Data analysis & queries  
+- **R (ggplot2, dplyr)** – Data visualization & insights  
 
-Contains:
-Passenger demographics – Age, gender, travel class, etc.
+## Connect With Me  
 
-Service ratings – Check-in, seat comfort, food, WiFi, etc.
-
-Flight details – Distance, delays, gate location, etc.
-
-Tools Used
-Excel – Data cleaning & preparation
-
-SQL – Data analysis & queries
-
-R (ggplot2, dplyr) – Data visualization & insights
-
-Connect With Me
-Email: inamdarmehwish1205@gmail.com
-
-LinkedIn: Mahwish Inamdar
+- **Email:** inamdarmehwish1205@gmail.com  
+- **LinkedIn:** [Mahwish Inamdar](#)  
